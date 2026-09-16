@@ -1,5 +1,5 @@
 import { useMemo, useState } from "react";
-import "./App.css";
+import "./app.css";
 
 const categories = ["All", "Food", "Burger", "Pizza", "Hot Drink", "Soft Drink"];
 
